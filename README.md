@@ -5,10 +5,6 @@ Restaurant Reviews classified into good and bad review using ML models.
 Support Vector Machines (SVM) and SVM with PCA(Principle component analysis)
 
 #### Libraries required:
-numpy
-pandas
-nltk
-sklearn
-matplotlib
+numpy, pandas,nltk,sklearn,matplotlib
 
 
